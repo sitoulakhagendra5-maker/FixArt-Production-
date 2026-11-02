@@ -1,0 +1,6 @@
+{
+  "name": "FixArt Production",
+  "description": "All-in-one digital business platform for media production, photography, printing, digital services, and job placement in Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
